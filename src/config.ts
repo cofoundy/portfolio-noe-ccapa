@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Noé Ccapa Mamani",
-  title: "Ingeniero Informático & Fundador de SIADEG",
+  title: "Ingeniero Informático: Fundador de SIADEG & Co-Fundador de Tukuy Obra",
   description: "Ingeniero Informático con más de 24 años de experiencia desarrollando software ERP para el sector público y privado en Cusco, Perú. Fundador de SIADEG, el sistema de gestión usado por 60+ municipalidades.",
 
   // Navy + Orange — corporativo tech
@@ -41,20 +41,20 @@ export const siteConfig = {
     {
       name: "SIADEG — Sistema ERP Gubernamental",
       description: "Sistema Integrado de Administración Empresarial y Gubernamental. Módulos de contabilidad, logística, almacén, tesorería, RRHH, patrimonio, trámite documentario, registro civil y rentas. Integrado con SUNAT, RENIEC, MEF y SIAF-GL.",
-      link: "https://siadeg.com",
+      link: "https://siadeg.pe",
       skills: ["ERP", "Gobierno", "SUNAT", "SIAF", "v8.0"],
     },
     {
       name: "SIADEG Contable & Empresarial",
       description: "Versión del sistema orientada a empresas privadas y estudios contables. Simplifica el registro contable para asistentes y practicantes, con exportación a Excel/PDF y procesamiento en tiempo real.",
-      link: "https://siadeg.com",
+      link: "https://erp.siadeg.net",
       skills: ["Contabilidad", "PLAME", "PLE", "PDT"],
     },
     {
-      name: "SIADEG En-Línea",
-      description: "Plataforma web que permite a las entidades acceder al sistema desde cualquier lugar. Soporte remoto vía AnyDesk, operación en red intranet/internet, y compatibilidad con teclado, mouse y pantalla táctil.",
-      link: "https://siadeg.com",
-      skills: ["Web", "Cloud", "Soporte Remoto"],
+      name: "TUKUY OBRA",
+      description: "Plataforma digital que optimiza la gestión integral de obras públicas en Perú con transparencia y eficiencia.",
+      link: "https://tukuyobra.com",
+      skills: ["Obras Públicas", "Gestión", "Transparencia"],
     },
   ],
 
@@ -80,21 +80,27 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Municipalidad Distrital de Santiago",
-      title: "Jefe de Adquisiciones y Contrataciones",
-      dateRange: "2011",
+      company: "Municipalidad Distrital de Colquepata",
+      title: "Jefe de Logística",
+      dateRange: "2009",
       bullets: [
-        "Gestión de procesos de adquisiciones y contrataciones del estado",
+        "Planificación, dirección y control del abastecimiento de bienes, servicios y mantenimiento necesarios para la operatividad de la entidad, gestión de procesos de adquisición, almacenes, inventarios y el control patrimonial conforme a las directivas de la entidad",
       ],
     },
     {
-      company: "Municipalidades de Cusco",
-      title: "Jefe de Tesorería / Logística",
-      dateRange: "2007 - 2010",
+      company: "Municipalidad Distrital de Condoroma",
+      title: "Jefe de Tesorería",
+      dateRange: "2010",
       bullets: [
-        "Jefe de Tesorería en Mun. Dist. de Condoroma (2010)",
-        "Jefe de Logística en Mun. Dist. de Colquepata (2009)",
-        "Implementación de SIADEG en Mun. Dist. de Incahuasi (2007)",
+        "Responsable de gestionar, custodiar y controlar los recursos financieros y el flujo de caja de la Municipalidad",
+      ],
+    },
+    {
+      company: "Municipalidad Distrital de Santiago",
+      title: "Jefe de Adquisiciones",
+      dateRange: "2011",
+      bullets: [
+        "Abastecimiento de bienes, servicios y obras necesarios para la operatividad local, asegurando el cumplimiento estricto de las normas de la Ley de Contrataciones",
       ],
     },
   ],
